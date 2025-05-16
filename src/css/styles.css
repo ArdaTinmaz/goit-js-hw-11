@@ -1,11 +1,13 @@
-#loader{
+.loader {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-#loader.hidden {
-    display: none; }
-
+  }
+  
+  .loader.hidden {
+    display: none;
+  }
+  
 body,
 html {
     margin: 0;
